@@ -1,0 +1,9 @@
+{
+	"id": "magicnotes",
+	"name": "MagicNotes",
+	"version": "1.0.0",
+	"minAppVersion": "1.7.2",
+	"description": "Ingest notes into a knowledge base of topics and subtopics, with an agent that answers questions about PDFs.",
+	"author": "Cosmakes",
+	"isDesktopOnly": false
+}
